@@ -1,0 +1,48 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+/* .cardsparentdivbg{
+      width: 100vw;
+      height: 100vh;    
+      background: linear-gradient(to bottom right, #000000 0%, #ffffff 100%);
+      background-color: transparent;
+     opacity: 0.6;
+    } */
+    .cardsparentdivbg {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .cardsdivbg {
+        margin-top: 2rem;
+        width: 70%;
+        height: 600px;
+        background-image: url("src/assets/cardbg.jpeg");
+        background-position: center;
+        background-size: 100% 100%; 
+        background-repeat: no-repeat;
+      }
+      .cardsdivbgwhite{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 2rem;
+        background-color: #fff;
+        width: 370px;
+        height:370px;
+        border-radius: 50%;
+        
+      }
+      .cardsdivbgwhite .cardsdivbgimg{
+        width: 360px;
+        height: 360px;
+        border-radius: 50%;
+        background-color: gray;
+
+    }
+    .cardheadingdiv{
+        
+    }

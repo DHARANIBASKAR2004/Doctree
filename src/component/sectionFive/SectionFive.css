@@ -1,0 +1,41 @@
+.framey {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .image-containery {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  
+  .framesy {
+    width: 100%;
+    height: auto;
+  }
+  .framesyheading{
+    font-size: 3rem;
+    font-weight: 500;
+    margin-top: 3rem;
+  }
+  
+  .overlay-texty {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+  }
+  .framespara{
+    margin-top: 1rem;
+    color: black;
+  }
+  
+ .image-containery h2 {
+    font-size: 2rem;
+    color: #333;
+  }

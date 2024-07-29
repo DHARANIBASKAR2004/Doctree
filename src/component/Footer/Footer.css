@@ -1,0 +1,92 @@
+.container_foot{
+    background-color: #8debc9; 
+   padding-top: 35px;
+   padding-bottom: 60px;
+   align-items: center;
+}
+.inside_con{
+    margin: 0 100px 0 140px;
+    display: flex;
+    gap: 220px;
+}
+
+
+.left_con{
+    
+    display: flex;
+    gap: 40px;
+}
+
+.card1_foot{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: rgb(82, 78, 78);
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 90px ;
+    padding-bottom: 30px; 
+    font-size:large;
+    font-weight: 600;
+}
+
+.social{
+    display: flex;
+    gap: 20px;
+    font-size:2.2rem;
+    /* padding-top: 5px; */
+    color: #10ce9b;
+}
+.logo .foot_h1{
+    width: 250px;
+    height: 70px;
+    
+}
+
+.foot_h2{
+    padding-left: 30rem;
+    padding-top: 1rem;
+    font-size: x-large;
+}
+.foot_h3{
+    /* padding-left: 18rem; */
+    padding-right: 11.7rem;
+    font-size: x-large;
+    padding-top: 1.3rem;
+}
+.copy{
+    display: flex;
+    margin: 0 100px 0 140px;
+    padding-top: 80px;
+    justify-content:space-between;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(82, 78, 78);
+}
+.rights1{
+    display: flex;
+    gap: 60px;
+    
+}
+.foot_h2{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.foot_h3{
+    font-weight: 500;
+}
+.facebook{
+    color: #3b5998;
+}
+.twitter{
+    color: #1DA1F2;
+}
+.instagram{
+    color: #ea0c5f;
+}
+.linkedin{
+    color: #007bb6;
+}

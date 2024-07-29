@@ -1,0 +1,82 @@
+/* about */
+
+.img-containerki {
+    position: relative;
+    display: inline-block;
+}
+
+.main-imgki {
+    display: block;
+    width: 100%;
+}
+
+.first-imgki {
+    position: absolute;
+    top: 80px;
+    left: -100px;
+    width: 48rem;
+    height: auto;
+}
+
+.img-paraki {
+    color: white;
+    position: absolute;
+    top: 31rem;
+    width: 22rem;
+    left: 30.5rem;
+}
+
+.sec-imgki {
+    position: absolute;
+    top: 0px;
+    left: 70rem;
+    width: fit-content;
+    height: auto;
+}
+
+.main-cardki {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
+    position: absolute;
+    top: 6rem;
+    left: 77rem;
+}
+
+.img-card1ki {
+    height: 10rem;
+    width: 16.5rem;
+    border-radius: 1.5rem;
+    /* box-shadow:  #10ce9b 0px 3px 6px; */
+}
+
+.img-card1ki img {
+    width: 16rem;
+    box-shadow: #10ce9b 0px 3px 6px;
+    border-radius: 40px;
+}
+
+.cardimg-containerki {
+    position: relative;
+    display: inline-block;
+    /* border:1px solid rgba(143, 143, 143, 0.705); */
+}
+
+.cardimg-contentki {
+    position: relative;
+    top: -7rem;
+}
+
+.cardimg-headingki {
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+.cardimg-paraki {
+    font-size: small;
+    padding-left: 1rem;
+    width: 15rem;
+    padding-top: 0.2rem;
+    text-align: center;
+}

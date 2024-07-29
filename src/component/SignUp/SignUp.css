@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* margin-top: 5rem; */
+    /* margin-left: 5rem; */
+
+}
+.spimage1{
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    top: 0px; 
+    /* filter: blur(3px); */
+}
+.spdiv1{
+    width: 33%;
+    padding-left: 3rem;
+    /* padding-top: 10rem; */
+    /* color: #fff; */
+    position: relative;
+    z-index: 1;
+    
+}
+.spdiv1 p{
+    /* width: 45%; */
+    padding-top: 2rem;
+    /* line-height: 1.5rem; */
+    font-size: 17px;
+    line-height: 1.7rem;
+    padding-right: 2rem;
+    color:rgb(255, 255, 255);
+    /* font-weight: bold; */
+    
+}
+.spdiv1 h1{
+    color: #fff
+    ;
+    padding-top: 1.5rem;
+    font-size: 4rem;
+}
+.parentdiv{
+    display: flex;
+}
+.Logo{
+    width: 7rem;
+    padding-top: 1rem;
+}
+.cancelicon{
+    font-size: 2rem;
+}
+.logodivparant{
+    display: flex;
+    justify-content: space-between;
+}
+.cancelicon{
+    margin-top: 3rem;
+    margin-left: 30rem;
+    cursor: pointer;
+}
+.FormSingup p{
+    font-size: 1.5rem;
+}
+.FormSinguppara {
+    margin-top: 0rem;
+    font-weight: 500;
+    
+}
+.FormSingup{
+    align-items: center;
+    padding-top: 1rem;
+    margin-left: 20rem;
+}
+.FormSingup input{
+    display: block;
+    margin-top: 2rem;
+    width: 30vw;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 2px solid #10ce9b;
+}
+.btn{
+    margin-top: 2rem;
+    width: 30vw;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    background-color: #10ce9b;
+}
+.logodiv{
+    margin-left: 18rem;
+}
+form .para1{
+    font-weight: 200;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+.para1 span{
+    color: #10ce9b;
+}
+.iconparent{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    border: 1px solid lightblue;
+    margin: 1rem;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+    box-shadow: 2px 1px 2px 1px lightblue;
+    border-radius: 0.5rem;
+}
+
+
+   
+

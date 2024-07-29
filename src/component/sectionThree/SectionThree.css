@@ -1,0 +1,36 @@
+.containerk {
+    /* margin-top:10px; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10rem;
+  }
+
+  .cardk {
+      display: flex;
+      flex-direction: column;
+      width: 17%;
+      height: auto;
+      align-items: center;
+      padding: 10px 20px;
+      border-radius: 40px;
+      box-shadow:  #10ce9b 0px 0px 7px 1px;
+      border: 1px solid rgb(141, 134, 134);
+  }
+
+.cardk h1{
+    font-weight: bolder;
+    font-size:x-large;
+    padding-bottom: 0.7rem;
+    text-align: center;
+}
+
+.cardk p{
+    font-size:small;
+    font-weight:300;
+    width: 90%;
+    text-align: center;
+}
+
+.cardk img{
+    filter: drop-shadow(5px 5px 3px #5d5d5d);
+}

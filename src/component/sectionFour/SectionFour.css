@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainsections{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    /* margin-top: 3rem; */
+    gap: 11rem;
+}
+.aboutsecimg{
+    width: 40%;
+    height: 550px;
+    margin-top: 7rem;
+    margin-left: 5rem;
+   
+}
+.secfourheading3{
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+.secfourheading{
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+
+}
+.aboutparadiv{
+    width: 50%;
+    font-size: 1rem;
+    margin-right: 7rem;
+}
+.abouttext{
+    line-height: 1.5rem;
+    font-weight: 400;
+    margin-top: 8rem;
+    
+}
